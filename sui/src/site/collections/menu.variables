@@ -1,0 +1,8 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+
+@fontFamily: 'Acrobat', 'Roboto', Arial, sans-serif;
+@primaryColor   : #4c2d46;
+@secondaryColor : #ffeac1;
